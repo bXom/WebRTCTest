@@ -1,6 +1,6 @@
 # WebRTCTest
 
-[W3C](https://www.w3.org/TR/webrtc/)
+[W3C标准](https://www.w3.org/TR/webrtc/)
 
 ### MediaStream
 
